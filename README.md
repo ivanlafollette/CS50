@@ -1,0 +1,1 @@
+This is the repo for the Harvard CS50 course that I am taking through edX. Week one was going through programming fundamentals and working on a Scratch problem. Though I have been programming for some time (I started with BASIC on a VIC-20), it's good to go through fundamentals just to keep your skills sharp!
